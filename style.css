@@ -1,0 +1,76 @@
+
+#principal{
+    background-color: #780c11;
+}
+#navbar{
+    background-color: #780c11;
+}
+.navbar-custom{
+    background-color: #780c11;
+}
+#body{
+    margin-top: 2%;
+}
+body{
+    background-color: wheat;
+}
+#intro{
+    border: 3px solid black;
+}
+#AboutMe{
+    margin-bottom: 3%;
+    background-color: white;
+    border: 3px solid black;
+}
+#tablita{
+    border: 3px solid black;
+}
+#imagen img{
+    border: 3px solid black;
+    border-radius: 5%;
+}
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+.box2{
+    width:100%;
+}
+#fotito{
+    border: 3px solid black;
+}
+#languages{
+    border: black solid 3px;
+    background-color: white;
+}
+.box1{
+
+    z-index: 10;
+}
+.aboutme{
+    height: 100%;
+    border-radius: 5%;
+    border: 3px solid black;
+    background-color: white;
+}
+.bg-warning{
+    border: 2px solid black;
+}
+.carousel{
+    border: 3px solid black;
+    margin-bottom: 3%;
+}
+.contact{
+    background-color: white;
+    border: 3px solid black;
+    margin-bottom: 2%;
+}
+.fotito{
+    border: 3px solid black;
+}
+.navbarcita{
+    border: 3px solid black;
+}
